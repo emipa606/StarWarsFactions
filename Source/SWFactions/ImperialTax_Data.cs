@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Verse;
 using RimWorld;
 using RimWorld.Planet;
-using UnityEngine;
 using Verse.Sound;
-using Verse.AI.Group;
 
 namespace SWFactions
 {
@@ -63,12 +60,14 @@ namespace SWFactions
                 empireTaxRate.ToStringPercent()
             });
             DiaNode diaNode = new DiaNode(text);
-            DiaOption diaOption = new DiaOption("PJ_ImperialGreeting_Accept".Translate());
-            diaOption.action = delegate
+            DiaOption diaOption = new DiaOption("PJ_ImperialGreeting_Accept".Translate())
             {
-                taxedColony = true;
+                action = delegate
+                {
+                    taxedColony = true;
+                },
+                resolveTree = true
             };
-            diaOption.resolveTree = true;
             diaNode.options.Add(diaOption);
             
             string text2 = "PJ_ImperialGreeting_Rejected".Translate(new object[]
@@ -76,15 +75,19 @@ namespace SWFactions
                 imperial.LabelShort
             });
             DiaNode diaNode2 = new DiaNode(text2);
-            DiaOption diaOption2 = new DiaOption("OK".Translate());
-            diaOption2.resolveTree = true;
-            diaNode2.options.Add(diaOption2);
-            DiaOption diaOption3 = new DiaOption("PJ_ImperialGreeting_Reject".Translate());
-            diaOption3.action = delegate
+            DiaOption diaOption2 = new DiaOption("OK".Translate())
             {
-                ResolveDeclarationOfHostility(imperial);
+                resolveTree = true
             };
-            diaOption3.link = diaNode2;
+            diaNode2.options.Add(diaOption2);
+            DiaOption diaOption3 = new DiaOption("PJ_ImperialGreeting_Reject".Translate())
+            {
+                action = delegate
+                {
+                    ResolveDeclarationOfHostility(imperial);
+                },
+                link = diaNode2
+            };
             diaNode.options.Add(diaOption3);
             string title = "PJ_ImperialGreeting_Title".Translate();
             Find.WindowStack.Add(new Dialog_NodeTree(diaNode, true, true, title));
