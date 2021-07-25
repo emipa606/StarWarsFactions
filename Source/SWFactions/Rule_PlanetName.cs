@@ -6,14 +6,8 @@ namespace SWFactions
     public class Rule_PlanetName : Rule
     {
         public int selectionWeight = 1;
-        
-        public override float BaseSelectionWeight
-        {
-            get
-            {
-                return (float)this.selectionWeight;
-            }
-        }
+
+        public override float BaseSelectionWeight => selectionWeight;
 
         public override string Generate()
         {
@@ -22,7 +16,7 @@ namespace SWFactions
 
         public override string ToString()
         {
-            return this.keyword + "->(worldname)";
+            return keyword + "->(worldname)";
         }
     }
 }

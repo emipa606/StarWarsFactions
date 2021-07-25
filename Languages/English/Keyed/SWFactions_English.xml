@@ -11,5 +11,4 @@
   <PJ_ImperialGreeting_Reject>Reject demands</PJ_ImperialGreeting_Reject>
   <PJ_ImperialTaxes_Paid>{0} paid {1} in silver as taxes to the Empire.</PJ_ImperialTaxes_Paid>
   <PJ_ImperialTaxes_Owed>{0} paid {1} silver. {0} owes the Empire {2} silver.</PJ_ImperialTaxes_Owed>
-
 </LanguageData>
