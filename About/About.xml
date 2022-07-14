@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Star Wars - Factions (Continued)</name>
   <packageId>Mlie.StarWarsFactions</packageId>
@@ -26,28 +26,34 @@
     <li>brrainz.harmony</li>
     <li>jecrell.jecstools</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Xen and Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=918227266
 
 - This is an unofficial port
 - This will be removed when/if Jecrell comes back
 - Added royalty-patch
+- Removed the speeders and walkers, as they relied on code that is no longer available in Jecs Tools
+- User ShadowDragon8685 has made a patch for the mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601794753]Star Wars Factions Weapon Patch[/url]
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/StarWarsFactions][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [h1]Adds classic Star Wars factions to RimWorld: the Galactic Empire, Rebel Alliance, and other scum and villainy[/h1]
 
-A16 Factions GitHub Branch -&gt; https://github.com/jecrell/Star-Wars---Factions/tree/A16
+A16 Factions GitHub Branch - https://github.com/jecrell/Star-Wars---Factions/tree/A16
 
 [h1]::::: NOTICE :::::
 ::::: THIS MOD NOW REQUIRES JECSTOOLS FOR A17 ::::::
@@ -82,7 +88,7 @@ Jedi Master Ailan, Shane Malley, Dakota Pohlman, Falloutmonk, Slick Liquid, Thom
 Join us on Discord https://discord.gg/aDjWBBk
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -93,4 +99,3 @@ Join us on Discord https://discord.gg/aDjWBBk
 [/list]
 </description>
 </ModMetaData>
-
