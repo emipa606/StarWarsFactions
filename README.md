@@ -1,6 +1,6 @@
 # StarWarsFactions
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Xen and Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=918227266
@@ -8,26 +8,19 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=918227266
 - This is an unofficial port
 - This will be removed when/if Jecrell comes back
 - Added royalty-patch
+- Removed the speeders and walkers, as they relied on code that is no longer available in Jecs Tools
+- User ShadowDragon8685 has made a patch for the mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2601794753]Star Wars Factions Weapon Patch
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/StarWarsFactions]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 # Adds classic Star Wars factions to RimWorld: the Galactic Empire, Rebel Alliance, and other scum and villainy
 
 
-A16 Factions GitHub Branch -&gt; https://github.com/jecrell/Star-Wars---Factions/tree/A16
+A16 Factions GitHub Branch - https://github.com/jecrell/Star-Wars---Factions/tree/A16
 
 # ::::: NOTICE :::::
 ::::: THIS MOD NOW REQUIRES JECSTOOLS FOR A17 ::::::
@@ -72,7 +65,7 @@ Jedi Master Ailan, Shane Malley, Dakota Pohlman, Falloutmonk, Slick Liquid, Thom
 Join us on Discord https://discord.gg/aDjWBBk
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -82,6 +75,7 @@ Join us on Discord https://discord.gg/aDjWBBk
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
