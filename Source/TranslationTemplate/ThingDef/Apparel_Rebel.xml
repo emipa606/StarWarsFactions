@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: reinforced armor vest -->
+  <PJ_Apparel_XVestPlate.label>reinforced armor vest</PJ_Apparel_XVestPlate.label>
+  <!-- EN: A vest with armor plates inserted on the chest and back. Protects against gunfire. -->
+  <PJ_Apparel_XVestPlate.description>A vest with armor plates inserted on the chest and back. Protects against gunfire.</PJ_Apparel_XVestPlate.description>
+  <!-- EN: camo jacket -->
+  <PJ_Reb_CamoJacket.label>camo jacket</PJ_Reb_CamoJacket.label>
+  <!-- EN: A tough military camo jacket to stop scrapes and bruises, and keep one warm in chilly weather. -->
+  <PJ_Reb_CamoJacket.description>A tough military camo jacket to stop scrapes and bruises, and keep one warm in chilly weather.</PJ_Reb_CamoJacket.description>
+  <!-- EN: Scout jacket -->
+  <PJ_Reb_ScoutJacket.label>Scout jacket</PJ_Reb_ScoutJacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather. -->
+  <PJ_Reb_ScoutJacket.description>A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather.</PJ_Reb_ScoutJacket.description>
+  <!-- EN: Scout jacket(brown) -->
+  <PJ_Reb_ScoutLAVJacket.label>Scout jacket(brown)</PJ_Reb_ScoutLAVJacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather. -->
+  <PJ_Reb_ScoutLAVJacket.description>A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather.</PJ_Reb_ScoutLAVJacket.description>
+  <!-- EN: trooper jacket -->
+  <PJ_Reb_TroopJacket.label>trooper jacket</PJ_Reb_TroopJacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather. -->
+  <PJ_Reb_TroopJacket.description>A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather.</PJ_Reb_TroopJacket.description>
+  <!-- EN: Rebel B-Wing Flight Suit -->
+  <PJ_RebBFlight.label>Rebel B-Wing Flight Suit</PJ_RebBFlight.label>
+  <!-- EN: A typical flight suit, worn by Rebel pilots. This blue version is typically worn by B-wing pilots, though sometimes preferred by other ship pilots. -->
+  <PJ_RebBFlight.description>A typical flight suit, worn by Rebel pilots. This blue version is typically worn by B-wing pilots, though sometimes preferred by other ship pilots.</PJ_RebBFlight.description>
+  <!-- EN: modified shirt -->
+  <PJ_RebCollarShirt.label>modified shirt</PJ_RebCollarShirt.label>
+  <!-- EN: A slightly reinforced collared shirt with buttons. -->
+  <PJ_RebCollarShirt.description>A slightly reinforced collared shirt with buttons.</PJ_RebCollarShirt.description>
+  <!-- EN: Rebel Flight Suit -->
+  <PJ_RebFlight.label>Rebel Flight Suit</PJ_RebFlight.label>
+  <!-- EN: A typical flight suit, worn by Rebel pilots. This orange version is typically worn by X-wing pilots, and members of the infamous "Rogue Squadron". -->
+  <PJ_RebFlight.description>A typical flight suit, worn by Rebel pilots. This orange version is typically worn by X-wing pilots, and members of the infamous "Rogue Squadron".</PJ_RebFlight.description>
+  <!-- EN: Rebel Alliance helmet -->
+  <PJ_RebHat.label>Rebel Alliance helmet</PJ_RebHat.label>
+  <!-- EN: The standard helmet for troops in the Old Republic, now often used by rebels. -->
+  <PJ_RebHat.description>The standard helmet for troops in the Old Republic, now often used by rebels.</PJ_RebHat.description>
+  <!-- EN: Rebel Scout helmet (brown) -->
+  <PJ_RebLAVHat.label>Rebel Scout helmet (brown)</PJ_RebLAVHat.label>
+  <!-- EN: A camoflage scouting helmet, used be members of the Rebel Alliance. -->
+  <PJ_RebLAVHat.description>A camoflage scouting helmet, used be members of the Rebel Alliance.</PJ_RebLAVHat.description>
+  <!-- EN: Rebel Alliance Officer Uniform -->
+  <PJ_RebOfficer.label>Rebel Alliance Officer Uniform</PJ_RebOfficer.label>
+  <!-- EN: A uniform designed for the Officers of the Rebel Alliance. -->
+  <PJ_RebOfficer.description>A uniform designed for the Officers of the Rebel Alliance.</PJ_RebOfficer.description>
+  <!-- EN: Alliance Pilot Helmet (Blue) -->
+  <PJ_RebPilot_H_Blue.label>Alliance Pilot Helmet (Blue)</PJ_RebPilot_H_Blue.label>
+  <!-- EN: A helmet generally worn by Alliance fighter pilots. This one appears to have come from one of the Blue squadrons. -->
+  <PJ_RebPilot_H_Blue.description>A helmet generally worn by Alliance fighter pilots. This one appears to have come from one of the Blue squadrons.</PJ_RebPilot_H_Blue.description>
+  <!-- EN: Alliance Pilot Helmet (Red) -->
+  <PJ_RebPilot_H_Red.label>Alliance Pilot Helmet (Red)</PJ_RebPilot_H_Red.label>
+  <!-- EN: A helmet generally worn by Alliance fighter pilots. This one appears to have come from Red squadron. -->
+  <PJ_RebPilot_H_Red.description>A helmet generally worn by Alliance fighter pilots. This one appears to have come from Red squadron.</PJ_RebPilot_H_Red.description>
+  <!-- EN: Rebel scout helmet(forest) -->
+  <PJ_RebScoutHat.label>Rebel scout helmet(forest)</PJ_RebScoutHat.label>
+  <!-- EN: A camoflage scouting helmet, used be members of the Rebel Alliance. -->
+  <PJ_RebScoutHat.description>A camoflage scouting helmet, used be members of the Rebel Alliance.</PJ_RebScoutHat.description>
+  <!-- EN: Rebel Cold Helmet -->
+  <PJ_RebSnowHat.label>Rebel Cold Helmet</PJ_RebSnowHat.label>
+  <!-- EN: The standard helmet for cold-climate troops in the Old Republic, now often used by rebels. -->
+  <PJ_RebSnowHat.description>The standard helmet for cold-climate troops in the Old Republic, now often used by rebels.</PJ_RebSnowHat.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: The Rebel Alliance -->
+  <PJ_RebelFac.label>The Rebel Alliance</PJ_RebelFac.label>
+  <!-- EN: A loose alliance of factions and governments with the common goal of removing the Emperor Palpatine and his Galactic Empire. -->
+  <PJ_RebelFac.description>A loose alliance of factions and governments with the common goal of removing the Emperor Palpatine and his Galactic Empire.</PJ_RebelFac.description>
+  <!-- EN: Leader -->
+  <PJ_RebelFac.leaderTitle>Leader</PJ_RebelFac.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PJ_RebelFac.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PJ_RebelFac.messageDefendersAttacking>
+  <!-- EN: member -->
+  <PJ_RebelFac.pawnSingular>member</PJ_RebelFac.pawnSingular>
+  <!-- EN: rebels -->
+  <PJ_RebelFac.pawnsPlural>rebels</PJ_RebelFac.pawnsPlural>
+</LanguageData>

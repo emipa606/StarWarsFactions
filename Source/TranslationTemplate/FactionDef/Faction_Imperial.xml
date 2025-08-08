@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: The Galactic Empire -->
+  <PJ_GalacticEmpire.label>The Galactic Empire</PJ_GalacticEmpire.label>
+  <!-- EN: The Galactic Empire, also known as the First Galactic Empire or the New Order—and commonly referred to as the Empire or the Order—was the galactic, constitutional monarchy and fascist government that replaced the Galactic Republic in the aftermath of the Clone Wars. -->
+  <PJ_GalacticEmpire.description>The Galactic Empire, also known as the First Galactic Empire or the New Order—and commonly referred to as the Empire or the Order—was the galactic, constitutional monarchy and fascist government that replaced the Galactic Republic in the aftermath of the Clone Wars.</PJ_GalacticEmpire.description>
+  <!-- EN: The Galactic Empire -->
+  <PJ_GalacticEmpire.fixedName>The Galactic Empire</PJ_GalacticEmpire.fixedName>
+  <!-- EN: Moff -->
+  <PJ_GalacticEmpire.leaderTitle>Moff</PJ_GalacticEmpire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PJ_GalacticEmpire.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PJ_GalacticEmpire.messageDefendersAttacking>
+  <!-- EN: imperial soldier -->
+  <PJ_GalacticEmpire.pawnSingular>imperial soldier</PJ_GalacticEmpire.pawnSingular>
+  <!-- EN: imperial soldiers -->
+  <PJ_GalacticEmpire.pawnsPlural>imperial soldiers</PJ_GalacticEmpire.pawnsPlural>
+</LanguageData>

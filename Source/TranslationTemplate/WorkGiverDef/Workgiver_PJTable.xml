@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Manufacture advanced polyalloy weapons and armor -->
+  <DoBills_PJ_Bench.label>Manufacture advanced polyalloy weapons and armor</DoBills_PJ_Bench.label>
+  <!-- EN: assembling -->
+  <DoBills_PJ_Bench.gerund>assembling</DoBills_PJ_Bench.gerund>
+  <!-- EN: assemble -->
+  <DoBills_PJ_Bench.verb>assemble</DoBills_PJ_Bench.verb>
+</LanguageData>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Launcher Projectile -->
+  <Bullet_LauncherP.label>Launcher Projectile</Bullet_LauncherP.label>
+  <!-- EN: E-11 Blaster bolt -->
+  <PJ_BlasterBolt_E11_X.label>E-11 Blaster bolt</PJ_BlasterBolt_E11_X.label>
+  <!-- EN: DC-15 Blaster Rifle -->
+  <PJ_DC15Rifle.label>DC-15 Blaster Rifle</PJ_DC15Rifle.label>
+  <!-- EN: The DC-15A blaster rifle was one of the standard issue weapons for clone troopers. Predecessor to the DLT-19 Rifle favored by the Empire. -->
+  <PJ_DC15Rifle.description>The DC-15A blaster rifle was one of the standard issue weapons for clone troopers. Predecessor to the DLT-19 Rifle favored by the Empire.</PJ_DC15Rifle.description>
+  <!-- EN: stock -->
+  <PJ_DC15Rifle.tools.stock.label>stock</PJ_DC15Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_DC15Rifle.tools.barrel.label>barrel</PJ_DC15Rifle.tools.barrel.label>
+  <!-- EN: DC-15 Blaster Rifle -->
+  <PJ_DC15Rifle.verbs.Verb_Shoot.label>DC-15 Blaster Rifle</PJ_DC15Rifle.verbs.Verb_Shoot.label>
+  <!-- EN: DH-17 Blaster Pistol -->
+  <PJ_DH17Blaster.label>DH-17 Blaster Pistol</PJ_DH17Blaster.label>
+  <!-- EN: Manufactured by BlasTech Industries, the DH-17 blaster pistol was commonly used by soldiers of the Rebel Alliance for conflicts aboard starships, and sometimes the officers of the Galactic Empire carried it instead of the standard E-11 blaster rifles. -->
+  <PJ_DH17Blaster.description>Manufactured by BlasTech Industries, the DH-17 blaster pistol was commonly used by soldiers of the Rebel Alliance for conflicts aboard starships, and sometimes the officers of the Galactic Empire carried it instead of the standard E-11 blaster rifles.</PJ_DH17Blaster.description>
+  <!-- EN: DH-17 Blaster Pistol -->
+  <PJ_DH17Blaster.verbs.Verb_Shoot.label>DH-17 Blaster Pistol</PJ_DH17Blaster.verbs.Verb_Shoot.label>
+  <!-- EN: DL-44 Blaster -->
+  <PJ_DL44blaster.label>DL-44 Blaster</PJ_DL44blaster.label>
+  <!-- EN: The DL-44 heavy blaster pistol was a type of heavy blaster pistol produced by BlasTech Industries that was used during the years of the Galactic Republic and the Age of the Empire. It was considered one of the most powerful blaster pistols in the galaxy, delivering massive damage at close range; however, it overheated quickly. -->
+  <PJ_DL44blaster.description>The DL-44 heavy blaster pistol was a type of heavy blaster pistol produced by BlasTech Industries that was used during the years of the Galactic Republic and the Age of the Empire. It was considered one of the most powerful blaster pistols in the galaxy, delivering massive damage at close range; however, it overheated quickly.</PJ_DL44blaster.description>
+  <!-- EN: grip -->
+  <PJ_DL44blaster.tools.grip.label>grip</PJ_DL44blaster.tools.grip.label>
+  <!-- EN: barrel -->
+  <PJ_DL44blaster.tools.barrel.label>barrel</PJ_DL44blaster.tools.barrel.label>
+  <!-- EN: DL-44 Blaster -->
+  <PJ_DL44blaster.verbs.Verb_Shoot.label>DL-44 Blaster</PJ_DL44blaster.verbs.Verb_Shoot.label>
+  <!-- EN: Heavy Rifle Bolt -->
+  <PJ_DLT_Bolt.label>Heavy Rifle Bolt</PJ_DLT_Bolt.label>
+  <!-- EN: DLT-19 Heavy BLaster Rifle -->
+  <PJ_DLT19Rifle.label>DLT-19 Heavy BLaster Rifle</PJ_DLT19Rifle.label>
+  <!-- EN: The DLT-19 heavy blaster rifle was a model of blaster rifle manufactured by BlasTech Industries. They were used by stormtroopers of the Galactic Empire, as well as by some heavy troopers of the Alliance to Restore the Republic. It featured a high rate of fire and could deal heavy damage at long ranges, and was most commonly used for pinning down troops and eliminating large groups of enemies. -->
+  <PJ_DLT19Rifle.description>The DLT-19 heavy blaster rifle was a model of blaster rifle manufactured by BlasTech Industries. They were used by stormtroopers of the Galactic Empire, as well as by some heavy troopers of the Alliance to Restore the Republic. It featured a high rate of fire and could deal heavy damage at long ranges, and was most commonly used for pinning down troops and eliminating large groups of enemies.</PJ_DLT19Rifle.description>
+  <!-- EN: stock -->
+  <PJ_DLT19Rifle.tools.stock.label>stock</PJ_DLT19Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_DLT19Rifle.tools.barrel.label>barrel</PJ_DLT19Rifle.tools.barrel.label>
+  <!-- EN: DLT-19 Heavy BLaster Rifle -->
+  <PJ_DLT19Rifle.verbs.Verb_Shoot.label>DLT-19 Heavy BLaster Rifle</PJ_DLT19Rifle.verbs.Verb_Shoot.label>
+  <!-- EN: Acid Bolt -->
+  <PJ_DXR_Bolt.label>Acid Bolt</PJ_DXR_Bolt.label>
+  <!-- EN: DXR-6 Blaster Carbine -->
+  <PJ_DXR6Carb.label>DXR-6 Blaster Carbine</PJ_DXR6Carb.label>
+  <!-- EN: The DXR-6 Heavy Carbine is used heavily throughout the galaxy for it's versatility, reliability, and devastating damage potential. -->
+  <PJ_DXR6Carb.description>The DXR-6 Heavy Carbine is used heavily throughout the galaxy for it's versatility, reliability, and devastating damage potential.</PJ_DXR6Carb.description>
+  <!-- EN: stock -->
+  <PJ_DXR6Carb.tools.stock.label>stock</PJ_DXR6Carb.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_DXR6Carb.tools.barrel.label>barrel</PJ_DXR6Carb.tools.barrel.label>
+  <!-- EN: DXR-6 Blaster Carbine -->
+  <PJ_DXR6Carb.verbs.Verb_Shoot.label>DXR-6 Blaster Carbine</PJ_DXR6Carb.verbs.Verb_Shoot.label>
+  <!-- EN: E-11 Blaster Rifle -->
+  <PJ_E11Blaster.label>E-11 Blaster Rifle</PJ_E11Blaster.label>
+  <!-- EN: Manufactured by BlasTech Industries during the Galactic Civil War, the E-11 Blaster Rifle is the standard blaster rifle of the Imperial stormtroopers. A powerful, light and compact weapon, the E-11 was used widely through the galaxy. -->
+  <PJ_E11Blaster.description>Manufactured by BlasTech Industries during the Galactic Civil War, the E-11 Blaster Rifle is the standard blaster rifle of the Imperial stormtroopers. A powerful, light and compact weapon, the E-11 was used widely through the galaxy.</PJ_E11Blaster.description>
+  <!-- EN: stock -->
+  <PJ_E11Blaster.tools.stock.label>stock</PJ_E11Blaster.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_E11Blaster.tools.barrel.label>barrel</PJ_E11Blaster.tools.barrel.label>
+  <!-- EN: E-11 Blaster Rifle -->
+  <PJ_E11Blaster.verbs.Verb_Shoot.label>E-11 Blaster Rifle</PJ_E11Blaster.verbs.Verb_Shoot.label>
+  <!-- EN: Heavy Rifle Bolt -->
+  <PJ_EE3_Bolt.label>Heavy Rifle Bolt</PJ_EE3_Bolt.label>
+  <!-- EN: EE-3 Blaster Carbine -->
+  <PJ_EE3Carbine.label>EE-3 Blaster Carbine</PJ_EE3Carbine.label>
+  <!-- EN: the EE-3 Blaster carbine is one of the blasters developed by Blastech, and seems to be favored by Mandalorians, among others. -->
+  <PJ_EE3Carbine.description>the EE-3 Blaster carbine is one of the blasters developed by Blastech, and seems to be favored by Mandalorians, among others.</PJ_EE3Carbine.description>
+  <!-- EN: stock -->
+  <PJ_EE3Carbine.tools.stock.label>stock</PJ_EE3Carbine.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_EE3Carbine.tools.barrel.label>barrel</PJ_EE3Carbine.tools.barrel.label>
+  <!-- EN: EE-3 Blaster Carbine -->
+  <PJ_EE3Carbine.verbs.Verb_Shoot.label>EE-3 Blaster Carbine</PJ_EE3Carbine.verbs.Verb_Shoot.label>
+  <!-- EN: Blaster Bolt -->
+  <PJ_HPistol_Bolt.label>Blaster Bolt</PJ_HPistol_Bolt.label>
+  <!-- EN: Ionized Energy Bolt -->
+  <PJ_Jawa_Bolt.label>Ionized Energy Bolt</PJ_Jawa_Bolt.label>
+  <!-- EN: Jawa Ion Rifle -->
+  <PJ_JawaIon.label>Jawa Ion Rifle</PJ_JawaIon.label>
+  <!-- EN: The prevalence of assassin droids and war droids during and after the Great Sith War resulted in the creation of advanced ion weapons to combat them. This one was hobbled together by scavengers. -->
+  <PJ_JawaIon.description>The prevalence of assassin droids and war droids during and after the Great Sith War resulted in the creation of advanced ion weapons to combat them. This one was hobbled together by scavengers.</PJ_JawaIon.description>
+  <!-- EN: stock -->
+  <PJ_JawaIon.tools.stock.label>stock</PJ_JawaIon.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_JawaIon.tools.barrel.label>barrel</PJ_JawaIon.tools.barrel.label>
+  <!-- EN: Jawa Ion Rifle -->
+  <PJ_JawaIon.verbs.Verb_Shoot.label>Jawa Ion Rifle</PJ_JawaIon.verbs.Verb_Shoot.label>
+  <!-- EN: Launcher Pistol -->
+  <PJ_LauncherP.label>Launcher Pistol</PJ_LauncherP.label>
+  <!-- EN: A dangerous projectile launcher compacted into a hand-held design. Favored by pirates and commando units. -->
+  <PJ_LauncherP.description>A dangerous projectile launcher compacted into a hand-held design. Favored by pirates and commando units.</PJ_LauncherP.description>
+  <!-- EN: grip -->
+  <PJ_LauncherP.tools.grip.label>grip</PJ_LauncherP.tools.grip.label>
+  <!-- EN: barrel -->
+  <PJ_LauncherP.tools.barrel.label>barrel</PJ_LauncherP.tools.barrel.label>
+  <!-- EN: Launcher Pistol -->
+  <PJ_LauncherP.verbs.Verb_Shoot.label>Launcher Pistol</PJ_LauncherP.verbs.Verb_Shoot.label>
+  <!-- EN: Nym's Slugthrower -->
+  <PJ_NymSlug.label>Nym's Slugthrower</PJ_NymSlug.label>
+  <!-- EN: A projectile carbine favored by the notorious Gangster Nym and his gang. It fires dense slugs of material, causing blunt damage. -->
+  <PJ_NymSlug.description>A projectile carbine favored by the notorious Gangster Nym and his gang. It fires dense slugs of material, causing blunt damage.</PJ_NymSlug.description>
+  <!-- EN: stock -->
+  <PJ_NymSlug.tools.stock.label>stock</PJ_NymSlug.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_NymSlug.tools.barrel.label>barrel</PJ_NymSlug.tools.barrel.label>
+  <!-- EN: Nym's Slugthrower -->
+  <PJ_NymSlug.verbs.Verb_Shoot.label>Nym's Slugthrower</PJ_NymSlug.verbs.Verb_Shoot.label>
+  <!-- EN: Blaster Bolt -->
+  <PJ_Pistol_Bolt.label>Blaster Bolt</PJ_Pistol_Bolt.label>
+  <!-- EN: Scout Blaster -->
+  <PJ_Scoutblaster.label>Scout Blaster</PJ_Scoutblaster.label>
+  <!-- EN: This hold-out blaster pistol, sometimes known as a scout blaster but commonly referred to as a scout trooper blaster pistol, was a standard-issue weapon used by the scout troopers of the Galactic Empire. Clone scout troopers of the 41st Elite Corps and Clone shadow troopers were also known to carry these weapons during the latter stages of the Clone Wars. -->
+  <PJ_Scoutblaster.description>This hold-out blaster pistol, sometimes known as a scout blaster but commonly referred to as a scout trooper blaster pistol, was a standard-issue weapon used by the scout troopers of the Galactic Empire. Clone scout troopers of the 41st Elite Corps and Clone shadow troopers were also known to carry these weapons during the latter stages of the Clone Wars.</PJ_Scoutblaster.description>
+  <!-- EN: grip -->
+  <PJ_Scoutblaster.tools.grip.label>grip</PJ_Scoutblaster.tools.grip.label>
+  <!-- EN: barrel -->
+  <PJ_Scoutblaster.tools.barrel.label>barrel</PJ_Scoutblaster.tools.barrel.label>
+  <!-- EN: Scout Blaster -->
+  <PJ_Scoutblaster.verbs.Verb_Shoot.label>Scout Blaster</PJ_Scoutblaster.verbs.Verb_Shoot.label>
+  <!-- EN: SE14 Blaster -->
+  <PJ_SE14blaster.label>SE14 Blaster</PJ_SE14blaster.label>
+  <!-- EN: The SE-14, sometimes known as the SR combat pistol, or the Separatist blaster pistol during the Clone Wars, was a basic blaster pistol produced by BlasTech Industries. -->
+  <PJ_SE14blaster.description>The SE-14, sometimes known as the SR combat pistol, or the Separatist blaster pistol during the Clone Wars, was a basic blaster pistol produced by BlasTech Industries.</PJ_SE14blaster.description>
+  <!-- EN: grip -->
+  <PJ_SE14blaster.tools.grip.label>grip</PJ_SE14blaster.tools.grip.label>
+  <!-- EN: barrel -->
+  <PJ_SE14blaster.tools.barrel.label>barrel</PJ_SE14blaster.tools.barrel.label>
+  <!-- EN: SE14 Blaster -->
+  <PJ_SE14blaster.verbs.Verb_Shoot.label>SE14 Blaster</PJ_SE14blaster.verbs.Verb_Shoot.label>
+  <!-- EN: Heavy Slug -->
+  <PJ_Slug_Bolt.label>Heavy Slug</PJ_Slug_Bolt.label>
+  <!-- EN: Heavy Rifle Bolt -->
+  <PJ_T21_Bolt.label>Heavy Rifle Bolt</PJ_T21_Bolt.label>
+  <!-- EN: T-21 Blaster Rifle -->
+  <PJ_T21Rifle.label>T-21 Blaster Rifle</PJ_T21Rifle.label>
+  <!-- EN: the T-21 heavy blaster, was a model of light repeating blaster used by some of the Galactic Empire's Stormtrooper Corps. It delivered massive damage at long ranges, however at a low rate of fire. -->
+  <PJ_T21Rifle.description>the T-21 heavy blaster, was a model of light repeating blaster used by some of the Galactic Empire's Stormtrooper Corps. It delivered massive damage at long ranges, however at a low rate of fire.</PJ_T21Rifle.description>
+  <!-- EN: stock -->
+  <PJ_T21Rifle.tools.stock.label>stock</PJ_T21Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <PJ_T21Rifle.tools.barrel.label>barrel</PJ_T21Rifle.tools.barrel.label>
+  <!-- EN: T-21 Blaster Rifle -->
+  <PJ_T21Rifle.verbs.Verb_Shoot.label>T-21 Blaster Rifle</PJ_T21Rifle.verbs.Verb_Shoot.label>
+</LanguageData>

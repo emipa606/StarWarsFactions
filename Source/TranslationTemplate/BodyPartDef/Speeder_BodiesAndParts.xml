@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Intakes -->
+  <Engines_intake.label>Intakes</Engines_intake.label>
+  <!-- EN: left maglev -->
+  <LeftLev.label>left maglev</LeftLev.label>
+  <!-- EN: left engine -->
+  <LeftSpeederEng.label>left engine</LeftSpeederEng.label>
+  <!-- EN: right maglev -->
+  <RightLev.label>right maglev</RightLev.label>
+  <!-- EN: right engine -->
+  <RightSpeederEng.label>right engine</RightSpeederEng.label>
+  <!-- EN: frame -->
+  <Speeder_Frame.label>frame</Speeder_Frame.label>
+  <!-- EN: Frontent -->
+  <Speeder_Frontend.label>Frontent</Speeder_Frontend.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Blaster bolt -->
+  <PJ_BlasterDam.label>Blaster bolt</PJ_BlasterDam.label>
+  <!-- EN: {0} has been blasted! -->
+  <PJ_BlasterDam.deathMessage>{0} has been blasted!</PJ_BlasterDam.deathMessage>
+  <!-- EN: Acidic bolt -->
+  <PJ_DXRDam.label>Acidic bolt</PJ_DXRDam.label>
+  <!-- EN: {0} has been blasted! -->
+  <PJ_DXRDam.deathMessage>{0} has been blasted!</PJ_DXRDam.deathMessage>
+  <!-- EN: vibro -->
+  <PJ_Vibro.label>vibro</PJ_Vibro.label>
+  <!-- EN: {0} has been cut to death. -->
+  <PJ_Vibro.deathMessage>{0} has been cut to death.</PJ_Vibro.deathMessage>
+</LanguageData>

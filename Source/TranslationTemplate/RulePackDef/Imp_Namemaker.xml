@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>name->[Impbase] [Impother] [Impdesc]</li>
+    <li>name->[Impbase] [Impdesc]</li>
+  -->
+  <NamerImpBase.rulePack.rulesStrings>
+    <li>name->[Impbase] [Impother] [Impdesc]</li>
+    <li>name->[Impbase] [Impdesc]</li>
+  </NamerImpBase.rulePack.rulesStrings>
+</LanguageData>

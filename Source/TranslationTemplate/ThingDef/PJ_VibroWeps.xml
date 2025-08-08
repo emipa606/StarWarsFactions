@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: deflected projectile -->
+  <PJ_BulletDeflected.label>deflected projectile</PJ_BulletDeflected.label>
+  <!-- EN: Vibrostaff -->
+  <PJ_StaffX.label>Vibrostaff</PJ_StaffX.label>
+  <!-- EN: A cortosis-weave polearm fitted with minature vibrocells. -->
+  <PJ_StaffX.description>A cortosis-weave polearm fitted with minature vibrocells.</PJ_StaffX.description>
+  <!-- EN: handle -->
+  <PJ_StaffX.tools.handle.label>handle</PJ_StaffX.tools.handle.label>
+  <!-- EN: point -->
+  <PJ_StaffX.tools.point.label>point</PJ_StaffX.tools.point.label>
+  <!-- EN: edge -->
+  <PJ_StaffX.tools.edge.label>edge</PJ_StaffX.tools.edge.label>
+  <!-- EN: Tusken Vibrostaff -->
+  <PJ_TStaff.label>Tusken Vibrostaff</PJ_TStaff.label>
+  <!-- EN: A cortosis-weave polearm fitted with minature vibrocells. -->
+  <PJ_TStaff.description>A cortosis-weave polearm fitted with minature vibrocells.</PJ_TStaff.description>
+  <!-- EN: handle -->
+  <PJ_TStaff.tools.handle.label>handle</PJ_TStaff.tools.handle.label>
+  <!-- EN: point -->
+  <PJ_TStaff.tools.point.label>point</PJ_TStaff.tools.point.label>
+  <!-- EN: edge -->
+  <PJ_TStaff.tools.edge.label>edge</PJ_TStaff.tools.edge.label>
+  <!-- EN: Vibroaxe -->
+  <PJ_Vibroaxe.label>Vibroaxe</PJ_Vibroaxe.label>
+  <!-- EN: A cortosis-weave polearm fitted with minature vibrocells. -->
+  <PJ_Vibroaxe.description>A cortosis-weave polearm fitted with minature vibrocells.</PJ_Vibroaxe.description>
+  <!-- EN: handle -->
+  <PJ_Vibroaxe.tools.handle.label>handle</PJ_Vibroaxe.tools.handle.label>
+  <!-- EN: point -->
+  <PJ_Vibroaxe.tools.point.label>point</PJ_Vibroaxe.tools.point.label>
+  <!-- EN: edge -->
+  <PJ_Vibroaxe.tools.edge.label>edge</PJ_Vibroaxe.tools.edge.label>
+  <!-- EN: Mando Vibro Cleaver -->
+  <PJ_Vibrocleaver.label>Mando Vibro Cleaver</PJ_Vibrocleaver.label>
+  <!-- EN: A mandalorian cortosis-weave sword fitted with minature vibrocells. -->
+  <PJ_Vibrocleaver.description>A mandalorian cortosis-weave sword fitted with minature vibrocells.</PJ_Vibrocleaver.description>
+  <!-- EN: handle -->
+  <PJ_Vibrocleaver.tools.handle.label>handle</PJ_Vibrocleaver.tools.handle.label>
+  <!-- EN: point -->
+  <PJ_Vibrocleaver.tools.point.label>point</PJ_Vibrocleaver.tools.point.label>
+  <!-- EN: edge -->
+  <PJ_Vibrocleaver.tools.edge.label>edge</PJ_Vibrocleaver.tools.edge.label>
+  <!-- EN: Vibro Double-Blade -->
+  <PJ_Vibrodouble.label>Vibro Double-Blade</PJ_Vibrodouble.label>
+  <!-- EN: An ancient cortosis-weave double bladed weapon fitted with minature vibrocells. -->
+  <PJ_Vibrodouble.description>An ancient cortosis-weave double bladed weapon fitted with minature vibrocells.</PJ_Vibrodouble.description>
+  <!-- EN: handle -->
+  <PJ_Vibrodouble.tools.handle.label>handle</PJ_Vibrodouble.tools.handle.label>
+  <!-- EN: second edge -->
+  <PJ_Vibrodouble.tools.second_edge.label>second edge</PJ_Vibrodouble.tools.second_edge.label>
+  <!-- EN: edge -->
+  <PJ_Vibrodouble.tools.edge.label>edge</PJ_Vibrodouble.tools.edge.label>
+  <!-- EN: Echani Vibrosword -->
+  <PJ_Vibrosword.label>Echani Vibrosword</PJ_Vibrosword.label>
+  <!-- EN: An Echani cortosis-weave sword fitted with minature vibrocells. -->
+  <PJ_Vibrosword.description>An Echani cortosis-weave sword fitted with minature vibrocells.</PJ_Vibrosword.description>
+  <!-- EN: handle -->
+  <PJ_Vibrosword.tools.handle.label>handle</PJ_Vibrosword.tools.handle.label>
+  <!-- EN: point -->
+  <PJ_Vibrosword.tools.point.label>point</PJ_Vibrosword.tools.point.label>
+  <!-- EN: edge -->
+  <PJ_Vibrosword.tools.edge.label>edge</PJ_Vibrosword.tools.edge.label>
+  <!-- EN: Vibro Scythe -->
+  <PJ_VScythe.label>Vibro Scythe</PJ_VScythe.label>
+  <!-- EN: A modern cortosis-weave scythe-style sword fitted with minature vibrocells. -->
+  <PJ_VScythe.description>A modern cortosis-weave scythe-style sword fitted with minature vibrocells.</PJ_VScythe.description>
+  <!-- EN: handle -->
+  <PJ_VScythe.tools.handle.label>handle</PJ_VScythe.tools.handle.label>
+  <!-- EN: point -->
+  <PJ_VScythe.tools.point.label>point</PJ_VScythe.tools.point.label>
+  <!-- EN: edge -->
+  <PJ_VScythe.tools.edge.label>edge</PJ_VScythe.tools.edge.label>
+</LanguageData>

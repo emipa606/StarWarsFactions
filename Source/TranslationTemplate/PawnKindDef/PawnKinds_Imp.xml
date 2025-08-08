@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: imperial -->
+  <ImpBase.label>imperial</ImpBase.label>
+  <!-- EN: commander -->
+  <PJ_ImpCommander.label>commander</PJ_ImpCommander.label>
+  <!-- EN: Tax Inspector -->
+  <PJ_ImpInspector.label>Tax Inspector</PJ_ImpInspector.label>
+  <!-- EN: Soldier -->
+  <PJ_ImpSoldier.label>Soldier</PJ_ImpSoldier.label>
+  <!-- EN: Tax Officer -->
+  <PJ_ImpTaxOfficer.label>Tax Officer</PJ_ImpTaxOfficer.label>
+  <!-- EN: Imperial Provisioner -->
+  <PJ_ImpTrader.label>Imperial Provisioner</PJ_ImpTrader.label>
+  <!-- EN: Scout trooper -->
+  <PJ_ScoutTrooper.label>Scout trooper</PJ_ScoutTrooper.label>
+  <!-- EN: Stormtrooper -->
+  <PJ_Stormtrooper.label>Stormtrooper</PJ_Stormtrooper.label>
+  <!-- EN: Stormtrooper officer -->
+  <PJ_StormtrooperSO.label>Stormtrooper officer</PJ_StormtrooperSO.label>
+</LanguageData>

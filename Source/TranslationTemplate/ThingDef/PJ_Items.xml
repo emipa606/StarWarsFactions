@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Cryo VibroCell -->
+  <PJ_CryoCell.label>Cryo VibroCell</PJ_CryoCell.label>
+  <!-- EN: A vibrocell and pontite lacing that enhances a vibroblade to deal freezing damage. -->
+  <PJ_CryoCell.description>A vibrocell and pontite lacing that enhances a vibroblade to deal freezing damage.</PJ_CryoCell.description>
+  <!-- EN: Hypersonic VibroCell -->
+  <PJ_SonicCell.label>Hypersonic VibroCell</PJ_SonicCell.label>
+  <!-- EN: A high-spec vibrocell tuned to vibrate the blade at hypersonic frequencies. -->
+  <PJ_SonicCell.description>A high-spec vibrocell tuned to vibrate the blade at hypersonic frequencies.</PJ_SonicCell.description>
+  <!-- EN: SpecOps VibroCell -->
+  <PJ_SpecOpsCell.label>SpecOps VibroCell</PJ_SpecOpsCell.label>
+  <!-- EN: An extremely powerful vibrocell built and tuned beyond mil-spec. -->
+  <PJ_SpecOpsCell.description>An extremely powerful vibrocell built and tuned beyond mil-spec.</PJ_SpecOpsCell.description>
+  <!-- EN: Basic VibroCell -->
+  <PJ_VibroMotorNorm.label>Basic VibroCell</PJ_VibroMotorNorm.label>
+  <!-- EN: A basic compact vibro-motor for a bladed weapon. -->
+  <PJ_VibroMotorNorm.description>A basic compact vibro-motor for a bladed weapon.</PJ_VibroMotorNorm.description>
+  <!-- EN: Experimental VibroCell -->
+  <PJ_XXCell.label>Experimental VibroCell</PJ_XXCell.label>
+  <!-- EN: An experimental vibrocell, beyond next-gen. -->
+  <PJ_XXCell.description>An experimental vibrocell, beyond next-gen.</PJ_XXCell.description>
+</LanguageData>

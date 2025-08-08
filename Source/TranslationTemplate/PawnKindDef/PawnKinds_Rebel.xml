@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: rebel base commander -->
+  <PJ_RebCouncilman.label>rebel base commander</PJ_RebCouncilman.label>
+  <!-- EN: rebel base commanders -->
+  <PJ_RebCouncilman.labelPlural>rebel base commanders</PJ_RebCouncilman.labelPlural>
+  <!-- EN: rebel guard -->
+  <PJ_RebGuard.label>rebel guard</PJ_RebGuard.label>
+  <!-- EN: rebel soldier -->
+  <PJ_RebLAVSoldier.label>rebel soldier</PJ_RebLAVSoldier.label>
+  <!-- EN: rebel mercenary -->
+  <PJ_RebMerc.label>rebel mercenary</PJ_RebMerc.label>
+  <!-- EN: rebel grenadier -->
+  <PJ_RebNadeSoldier.label>rebel grenadier</PJ_RebNadeSoldier.label>
+  <!-- EN: rebel soldier -->
+  <PJ_RebPilot.label>rebel soldier</PJ_RebPilot.label>
+  <!-- EN: rebel soldier -->
+  <PJ_RebSoldier.label>rebel soldier</PJ_RebSoldier.label>
+  <!-- EN: rebel trader -->
+  <PJ_RebTrader.label>rebel trader</PJ_RebTrader.label>
+  <!-- EN: villager -->
+  <PJ_RebVillager.label>villager</PJ_RebVillager.label>
+</LanguageData>

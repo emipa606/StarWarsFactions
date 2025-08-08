@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Custom Jedi Robe -->
+  <PJ_JFac_Robe.label>Custom Jedi Robe</PJ_JFac_Robe.label>
+  <!-- EN: A Jedi's robes -->
+  <PJ_JFac_Robe.description>A Jedi's robes</PJ_JFac_Robe.description>
+  <!-- EN: Custom Sith robes -->
+  <PJ_SithFac_Robe.label>Custom Sith robes</PJ_SithFac_Robe.label>
+  <!-- EN: A Dark Side version of Jedi Robes -->
+  <PJ_SithFac_Robe.description>A Dark Side version of Jedi Robes</PJ_SithFac_Robe.description>
+</LanguageData>

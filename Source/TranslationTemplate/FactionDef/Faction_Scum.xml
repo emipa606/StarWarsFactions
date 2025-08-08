@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Wretched hive of scum and villainy -->
+  <PJ_Bounty.label>Wretched hive of scum and villainy</PJ_Bounty.label>
+  <!-- EN: Groups of shady underworld-types. -->
+  <PJ_Bounty.description>Groups of shady underworld-types.</PJ_Bounty.description>
+  <!-- EN: Boss -->
+  <PJ_Bounty.leaderTitle>Boss</PJ_Bounty.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PJ_Bounty.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PJ_Bounty.messageDefendersAttacking>
+  <!-- EN: scum -->
+  <PJ_Bounty.pawnSingular>scum</PJ_Bounty.pawnSingular>
+  <!-- EN: scum -->
+  <PJ_Bounty.pawnsPlural>scum</PJ_Bounty.pawnsPlural>
+</LanguageData>

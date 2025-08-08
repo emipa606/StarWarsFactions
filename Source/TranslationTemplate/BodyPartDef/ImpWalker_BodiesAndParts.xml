@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: frame -->
+  <ATAT_Frame.label>frame</ATAT_Frame.label>
+  <!-- EN: head -->
+  <ATAT_Head.label>head</ATAT_Head.label>
+  <!-- EN: neck -->
+  <ATAT_Neck.label>neck</ATAT_Neck.label>
+  <!-- EN: frame -->
+  <ATST_Frame.label>frame</ATST_Frame.label>
+  <!-- EN: head -->
+  <ATST_Head.label>head</ATST_Head.label>
+  <!-- EN: neck -->
+  <ATST_Neck.label>neck</ATST_Neck.label>
+  <!-- EN: left foot -->
+  <LeftATATFFoot.label>left foot</LeftATATFFoot.label>
+  <!-- EN: left leg -->
+  <LeftATATFLeg.label>left leg</LeftATATFLeg.label>
+  <!-- EN: left foot -->
+  <LeftATATRFoot.label>left foot</LeftATATRFoot.label>
+  <!-- EN: left leg -->
+  <LeftATATRLeg.label>left leg</LeftATATRLeg.label>
+  <!-- EN: right foot -->
+  <RightATATFFoot.label>right foot</RightATATFFoot.label>
+  <!-- EN: right leg -->
+  <RightATATFLeg.label>right leg</RightATATFLeg.label>
+  <!-- EN: right foot -->
+  <RightATATRFoot.label>right foot</RightATATRFoot.label>
+  <!-- EN: right leg -->
+  <RightATATRLeg.label>right leg</RightATATRLeg.label>
+  <!-- EN: cockpit -->
+  <SWFactions_Cockpit.label>cockpit</SWFactions_Cockpit.label>
+  <!-- EN: thermometer -->
+  <SWFactions_Thermometer.label>thermometer</SWFactions_Thermometer.label>
+</LanguageData>

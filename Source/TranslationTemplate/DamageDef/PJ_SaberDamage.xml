@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Saber frost -->
+  <PJ_PontiteDam.label>Saber frost</PJ_PontiteDam.label>
+  <!-- EN: {0} died from freezing lightsaber wounds. -->
+  <PJ_PontiteDam.deathMessage>{0} died from freezing lightsaber wounds.</PJ_PontiteDam.deathMessage>
+  <!-- EN: Sonic damage -->
+  <PJ_SonicDam.label>Sonic damage</PJ_SonicDam.label>
+  <!-- EN: {0} has died from sonic fractures. -->
+  <PJ_SonicDam.deathMessage>{0} has died from sonic fractures.</PJ_SonicDam.deathMessage>
+</LanguageData>

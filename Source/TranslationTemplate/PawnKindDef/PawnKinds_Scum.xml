@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bounty hunter -->
+  <PJ_BountyHunter.label>Bounty hunter</PJ_BountyHunter.label>
+  <!-- EN: ruffian -->
+  <PJ_Ruffian.label>ruffian</PJ_Ruffian.label>
+  <!-- EN: boss -->
+  <PJ_ScumBoss.label>boss</PJ_ScumBoss.label>
+  <!-- EN: Soldier -->
+  <PJ_ScumSoldier.label>Soldier</PJ_ScumSoldier.label>
+</LanguageData>

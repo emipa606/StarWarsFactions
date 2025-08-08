@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sonic fracture -->
+  <PJ_SonicBoom.label>sonic fracture</PJ_SonicBoom.label>
+  <!-- EN: sonic fracture -->
+  <PJ_SonicBoom.description>sonic fracture</PJ_SonicBoom.description>
+  <!-- EN: sonic microfracture -->
+  <PJ_SonicBoom.comps.HediffComp_GetsPermanent.permanentLabel>sonic microfracture</PJ_SonicBoom.comps.HediffComp_GetsPermanent.permanentLabel>
+</LanguageData>

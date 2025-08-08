@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Uniform pants -->
+  <PJ_Apparel_Pants.label>Uniform pants</PJ_Apparel_Pants.label>
+  <!-- EN: A simple set of uniform pants. -->
+  <PJ_Apparel_Pants.description>A simple set of uniform pants.</PJ_Apparel_Pants.description>
+  <!-- EN: Stormtrooper helm -->
+  <PJ_DTHelm.label>Stormtrooper helm</PJ_DTHelm.label>
+  <!-- EN: A stormtrooper helmet variant for ISB troopers. -->
+  <PJ_DTHelm.description>A stormtrooper helmet variant for ISB troopers.</PJ_DTHelm.description>
+  <!-- EN: Imperial Command Cap -->
+  <PJ_ImpHat.label>Imperial Command Cap</PJ_ImpHat.label>
+  <!-- EN: The command cap worn by officers of the Imperial forces. -->
+  <PJ_ImpHat.description>The command cap worn by officers of the Imperial forces.</PJ_ImpHat.description>
+  <!-- EN: Imperial Command Cap (Black) -->
+  <PJ_ImpHatB.label>Imperial Command Cap (Black)</PJ_ImpHatB.label>
+  <!-- EN: The command cap worn by officers of the Imperial forces. -->
+  <PJ_ImpHatB.description>The command cap worn by officers of the Imperial forces.</PJ_ImpHatB.description>
+  <!-- EN: Imperial Command Cap -->
+  <PJ_ImpHatBrn.label>Imperial Command Cap</PJ_ImpHatBrn.label>
+  <!-- EN: The command cap worn by officers of the Imperial forces. -->
+  <PJ_ImpHatBrn.description>The command cap worn by officers of the Imperial forces.</PJ_ImpHatBrn.description>
+  <!-- EN: Imperial Navy Helm -->
+  <PJ_ImpNavyH.label>Imperial Navy Helm</PJ_ImpNavyH.label>
+  <!-- EN: The helmet worn by low ranking command and technical personnel of the Imperial forces. -->
+  <PJ_ImpNavyH.description>The helmet worn by low ranking command and technical personnel of the Imperial forces.</PJ_ImpNavyH.description>
+  <!-- EN: Imperial Navy Uniform(Outer-Dark) -->
+  <PJ_ImpNAVYSHELL.label>Imperial Navy Uniform(Outer-Dark)</PJ_ImpNAVYSHELL.label>
+  <!-- EN: The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-ranking officers assigned to capitol ships or stations. -->
+  <PJ_ImpNAVYSHELL.description>The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-ranking officers assigned to capitol ships or stations.</PJ_ImpNAVYSHELL.description>
+  <!-- EN: Imperial Command Cap (Dark) -->
+  <PJ_ImpSTOHat.label>Imperial Command Cap (Dark)</PJ_ImpSTOHat.label>
+  <!-- EN: The command cap worn by stormtrooper officers, and ISB officers. -->
+  <PJ_ImpSTOHat.description>The command cap worn by stormtrooper officers, and ISB officers.</PJ_ImpSTOHat.description>
+  <!-- EN: Imperial Uniform Bodysuit(Inner-Mesh) -->
+  <PJ_ImpUniform.label>Imperial Uniform Bodysuit(Inner-Mesh)</PJ_ImpUniform.label>
+  <!-- EN: The uniform body suit worn by the martial forces of the Galactic Empire. -->
+  <PJ_ImpUniform.description>The uniform body suit worn by the martial forces of the Galactic Empire.</PJ_ImpUniform.description>
+  <!-- EN: Imperial Navy Uniform(Inner-Black) -->
+  <PJ_ImpUniformBlack.label>Imperial Navy Uniform(Inner-Black)</PJ_ImpUniformBlack.label>
+  <!-- EN: The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-ranking officers assigned to capitol ships or stations. -->
+  <PJ_ImpUniformBlack.description>The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-ranking officers assigned to capitol ships or stations.</PJ_ImpUniformBlack.description>
+  <!-- EN: Imperial Navy Uniform(Outer-Black) -->
+  <PJ_ImpUniformBlackSHELL.label>Imperial Navy Uniform(Outer-Black)</PJ_ImpUniformBlackSHELL.label>
+  <!-- EN: The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-ranking officers assigned to capitol ships or stations. -->
+  <PJ_ImpUniformBlackSHELL.description>The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-ranking officers assigned to capitol ships or stations.</PJ_ImpUniformBlackSHELL.description>
+  <!-- EN: Imperial Navy Uniform(Outer-Brown) -->
+  <PJ_ImpUniformBrownSHELL.label>Imperial Navy Uniform(Outer-Brown)</PJ_ImpUniformBrownSHELL.label>
+  <!-- EN: The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by low-ranking officers assigned to capitol ships or stations. -->
+  <PJ_ImpUniformBrownSHELL.description>The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by low-ranking officers assigned to capitol ships or stations.</PJ_ImpUniformBrownSHELL.description>
+  <!-- EN: Imperial Navy Uniform(Outer-Green) -->
+  <PJ_ImpUniformGrnSHELL.label>Imperial Navy Uniform(Outer-Green)</PJ_ImpUniformGrnSHELL.label>
+  <!-- EN: The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-to-upper-ranking officers assigned to capitol ships or stations. -->
+  <PJ_ImpUniformGrnSHELL.description>The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by mid-to-upper-ranking officers assigned to capitol ships or stations.</PJ_ImpUniformGrnSHELL.description>
+  <!-- EN: Imperial ISB Uniform(Outer) -->
+  <PJ_ImpUniformISBSHELL.label>Imperial ISB Uniform(Outer)</PJ_ImpUniformISBSHELL.label>
+  <!-- EN: The Imperial Security Bureau was formed by Galactic Emperor Palpatine himself as a secret police organization, dedicated to rooting out enemies of the New Order and maintaining stability throughout Imperial territories shortly after the proclamation of the New Order. Within fourteen years, the organization grew from a handful of agents into an organization double the size of Imperial Intelligence. -->
+  <PJ_ImpUniformISBSHELL.description>The Imperial Security Bureau was formed by Galactic Emperor Palpatine himself as a secret police organization, dedicated to rooting out enemies of the New Order and maintaining stability throughout Imperial territories shortly after the proclamation of the New Order. Within fourteen years, the organization grew from a handful of agents into an organization double the size of Imperial Intelligence.</PJ_ImpUniformISBSHELL.description>
+  <!-- EN: Scout trooper helmet -->
+  <PJ_SCTHelm.label>Scout trooper helmet</PJ_SCTHelm.label>
+  <!-- EN: A stormtrooper helmet specialized for scouting duty. -->
+  <PJ_SCTHelm.description>A stormtrooper helmet specialized for scouting duty.</PJ_SCTHelm.description>
+  <!-- EN: Shoretrooper helm -->
+  <PJ_SHHelm.label>Shoretrooper helm</PJ_SHHelm.label>
+  <!-- EN: A stormtrooper helmet designed for beach landings. -->
+  <PJ_SHHelm.description>A stormtrooper helmet designed for beach landings.</PJ_SHHelm.description>
+  <!-- EN: Stormtrooper helm -->
+  <PJ_STHelm.label>Stormtrooper helm</PJ_STHelm.label>
+  <!-- EN: A standard-issue stormtrooper helmet. -->
+  <PJ_STHelm.description>A standard-issue stormtrooper helmet.</PJ_STHelm.description>
+  <!-- EN: Stormtrooper Officer Uniform(Inner) -->
+  <PJ_STOffUniform.label>Stormtrooper Officer Uniform(Inner)</PJ_STOffUniform.label>
+  <!-- EN: The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by elite stormtroopers, or unit commanders. -->
+  <PJ_STOffUniform.description>The uniform worn by the martial forces of the Galactic Empire. This version is usually worn by elite stormtroopers, or unit commanders.</PJ_STOffUniform.description>
+  <!-- EN: TIE pilot helmet -->
+  <PJ_TIEHelm.label>TIE pilot helmet</PJ_TIEHelm.label>
+  <!-- EN: A specialized helmet worn by TIE pilots in the Imperial Navy. It is very well insulated, and outfitted for portable oxygen hookups, since the TIE series generally have no on-board life support. -->
+  <PJ_TIEHelm.description>A specialized helmet worn by TIE pilots in the Imperial Navy. It is very well insulated, and outfitted for portable oxygen hookups, since the TIE series generally have no on-board life support.</PJ_TIEHelm.description>
+  <!-- EN: Stormtrooper armor -->
+  <PJ_TroopArmor.label>Stormtrooper armor</PJ_TroopArmor.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. -->
+  <PJ_TroopArmor.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters.</PJ_TroopArmor.description>
+  <!-- EN: Deathtrooper armor -->
+  <PJ_TroopArmorDT.label>Deathtrooper armor</PJ_TroopArmorDT.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. This black variant is used by troopers attatched to the ISB. -->
+  <PJ_TroopArmorDT.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. This black variant is used by troopers attatched to the ISB.</PJ_TroopArmorDT.description>
+  <!-- EN: Deathtrooper armor(Cmd) -->
+  <PJ_TroopArmorDTC.label>Deathtrooper armor(Cmd)</PJ_TroopArmorDTC.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. This black variant is used by troopers attatched to the ISB. -->
+  <PJ_TroopArmorDTC.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. This black variant is used by troopers attatched to the ISB.</PJ_TroopArmorDTC.description>
+  <!-- EN: Stormtrooper armor(JO) -->
+  <PJ_TroopArmorJO.label>Stormtrooper armor(JO)</PJ_TroopArmorJO.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. -->
+  <PJ_TroopArmorJO.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters.</PJ_TroopArmorJO.description>
+  <!-- EN: Stormtrooper armor(NCO) -->
+  <PJ_TroopArmorNCO.label>Stormtrooper armor(NCO)</PJ_TroopArmorNCO.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. -->
+  <PJ_TroopArmorNCO.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters.</PJ_TroopArmorNCO.description>
+  <!-- EN: Shoretrooper armor -->
+  <PJ_TroopArmorSh.label>Shoretrooper armor</PJ_TroopArmorSh.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. -->
+  <PJ_TroopArmorSh.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters.</PJ_TroopArmorSh.description>
+  <!-- EN: Shoretrooper armor(Cpt) -->
+  <PJ_TroopArmorShC.label>Shoretrooper armor(Cpt)</PJ_TroopArmorShC.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. This is a captain's variant. -->
+  <PJ_TroopArmorShC.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. This is a captain's variant.</PJ_TroopArmorShC.description>
+  <!-- EN: Shoretrooper armor(SL) -->
+  <PJ_TroopArmorShSL.label>Shoretrooper armor(SL)</PJ_TroopArmorShSL.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. -->
+  <PJ_TroopArmorShSL.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters.</PJ_TroopArmorShSL.description>
+  <!-- EN: Stormtrooper armor(SO) -->
+  <PJ_TroopArmorSO.label>Stormtrooper armor(SO)</PJ_TroopArmorSO.label>
+  <!-- EN: Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters. -->
+  <PJ_TroopArmorSO.description>Stormtrooper armor was the standard armor worn by the Imperial stormtrooper. A white plastoid composite worn over a black body glove, the armor represented some of the best in the Empire and was dreaded by rebel freedom fighters.</PJ_TroopArmorSO.description>
+</LanguageData>

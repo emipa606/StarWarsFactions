@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: deflection chance -->
+  <MeleeWeapon_DeflectionChance.label>deflection chance</MeleeWeapon_DeflectionChance.label>
+  <!-- EN: Chance to deflect ranged projectiles with melee weapon. -->
+  <MeleeWeapon_DeflectionChance.description>Chance to deflect ranged projectiles with melee weapon.</MeleeWeapon_DeflectionChance.description>
+</LanguageData>

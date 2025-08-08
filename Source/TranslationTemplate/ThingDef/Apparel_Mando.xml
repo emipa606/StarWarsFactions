@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Barky's clan armor -->
+  <PJ_BarkMandoArmor.label>Barky's clan armor</PJ_BarkMandoArmor.label>
+  <!-- EN: Armor dedicated to the followers of an honored warrior. Mandalorians wear this sigil-bound vestment and cry out, For Barkyyyyyy!!! -->
+  <PJ_BarkMandoArmor.description>Armor dedicated to the followers of an honored warrior. Mandalorians wear this sigil-bound vestment and cry out, For Barkyyyyyy!!!</PJ_BarkMandoArmor.description>
+  <!-- EN: Mando armor -->
+  <PJ_MandoArmor.label>Mando armor</PJ_MandoArmor.label>
+  <!-- EN: The most recognizable symbol of the Mandalorian culture, Mandalorian armor was a catch-all term for the sets of distinctive full-body armor worn by Mandalorian warriors and soldiers throughout galactic history. -->
+  <PJ_MandoArmor.description>The most recognizable symbol of the Mandalorian culture, Mandalorian armor was a catch-all term for the sets of distinctive full-body armor worn by Mandalorian warriors and soldiers throughout galactic history.</PJ_MandoArmor.description>
+  <!-- EN: Mando helm -->
+  <PJ_MandoHelm.label>Mando helm</PJ_MandoHelm.label>
+  <!-- EN: The ever-recognizable T-shaped visor of the mandalorian helmet strikes fear throughout the galaxy. -->
+  <PJ_MandoHelm.description>The ever-recognizable T-shaped visor of the mandalorian helmet strikes fear throughout the galaxy.</PJ_MandoHelm.description>
+  <!-- EN: Mando Veteran armor -->
+  <PJ_VetMandoArmor.label>Mando Veteran armor</PJ_VetMandoArmor.label>
+  <!-- EN: The most recognizable symbol of the Mandalorian culture, Mandalorian armor was a catch-all term for the sets of distinctive full-body armor worn by Mandalorian warriors and soldiers throughout galactic history. -->
+  <PJ_VetMandoArmor.description>The most recognizable symbol of the Mandalorian culture, Mandalorian armor was a catch-all term for the sets of distinctive full-body armor worn by Mandalorian warriors and soldiers throughout galactic history.</PJ_VetMandoArmor.description>
+</LanguageData>

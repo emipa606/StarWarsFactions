@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Acid burn -->
+  <PJ_AcBurn.label>Acid burn</PJ_AcBurn.label>
+  <!-- EN: I'm meeeeelting! -->
+  <PJ_AcBurn.description>I'm meeeeelting!</PJ_AcBurn.description>
+  <!-- EN: well treated -->
+  <PJ_AcBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>well treated</PJ_AcBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: Acid scar -->
+  <PJ_AcBurn.comps.HediffComp_GetsPermanent.permanentLabel>Acid scar</PJ_AcBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Melted off -->
+  <PJ_AcBurn.injuryProps.destroyedLabel>Melted off</PJ_AcBurn.injuryProps.destroyedLabel>
+  <!-- EN: Melted out -->
+  <PJ_AcBurn.injuryProps.destroyedOutLabel>Melted out</PJ_AcBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: Blaster burn -->
+  <PJ_BBurn.label>Blaster burn</PJ_BBurn.label>
+  <!-- EN: A bad burn from a blaster. -->
+  <PJ_BBurn.description>A bad burn from a blaster.</PJ_BBurn.description>
+  <!-- EN: well tended -->
+  <PJ_BBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>well tended</PJ_BBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: Blaster scar -->
+  <PJ_BBurn.comps.HediffComp_GetsPermanent.permanentLabel>Blaster scar</PJ_BBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Blasted off -->
+  <PJ_BBurn.injuryProps.destroyedLabel>Blasted off</PJ_BBurn.injuryProps.destroyedLabel>
+  <!-- EN: Blasted out -->
+  <PJ_BBurn.injuryProps.destroyedOutLabel>Blasted out</PJ_BBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: sonic -->
+  <PJ_VibroSonic.label>sonic</PJ_VibroSonic.label>
+  <!-- EN: SONIC-BOOOOM! -->
+  <PJ_VibroSonic.description>SONIC-BOOOOM!</PJ_VibroSonic.description>
+  <!-- EN: sonic scar -->
+  <PJ_VibroSonic.comps.HediffComp_GetsPermanent.permanentLabel>sonic scar</PJ_VibroSonic.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Sliced off -->
+  <PJ_VibroSonic.injuryProps.destroyedLabel>Sliced off</PJ_VibroSonic.injuryProps.destroyedLabel>
+  <!-- EN: sliced out -->
+  <PJ_VibroSonic.injuryProps.destroyedOutLabel>sliced out</PJ_VibroSonic.injuryProps.destroyedOutLabel>
+</LanguageData>

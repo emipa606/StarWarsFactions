@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Composite armor -->
+  <PJ_CompArmor.label>Composite armor</PJ_CompArmor.label>
+  <!-- EN: There was a time and place where everyone was wearing this armor. Battles ravaged across many planets. -->
+  <PJ_CompArmor.description>There was a time and place where everyone was wearing this armor. Battles ravaged across many planets.</PJ_CompArmor.description>
+  <!-- EN: Yellow Flight Suit -->
+  <PJ_GenFlight_Y.label>Yellow Flight Suit</PJ_GenFlight_Y.label>
+  <!-- EN: A typical flight suit, often worn by Rebel pilots. This yellow version has been available for commercial and private purchase for years, and as such is quite common. -->
+  <PJ_GenFlight_Y.description>A typical flight suit, often worn by Rebel pilots. This yellow version has been available for commercial and private purchase for years, and as such is quite common.</PJ_GenFlight_Y.description>
+</LanguageData>

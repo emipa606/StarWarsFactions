@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Imperial bulk goods provisioner -->
+  <PJ_ImpTrader_BulkGoods.label>Imperial bulk goods provisioner</PJ_ImpTrader_BulkGoods.label>
+  <!-- EN: Imperial weapons provisioner -->
+  <PJ_ImpTrader_CombatSupplier.label>Imperial weapons provisioner</PJ_ImpTrader_CombatSupplier.label>
+  <!-- EN: Imperial slaver -->
+  <PJ_ImpTrader_Slaver.label>Imperial slaver</PJ_ImpTrader_Slaver.label>
+</LanguageData>
